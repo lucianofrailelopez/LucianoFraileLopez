@@ -1,6 +1,14 @@
 <h1 align="center">Hola 👋, Yo soy Luciano</h1>
 <h3 align="center">Un apasionado desarrollador Full Stack de Argentina</h3>
 
+<p align="cente">¡Saludos! Soy Luciano Fraile Lopez, un apasionado desarrollador Full Stack con un enfoque especializado en el ámbito tanto del Frontend como del Backend. Mi experiencia abarca una amplia gama de tecnologías, entre ellas: HTML, CSS, JavaScript, TypeScript, React, Redux, SQL, Sequelize, PostgreSQL, Git, Github, Bitbucket y Trello.
+
+Más allá de mi experiencia técnica, he cultivado habilidades blandas que me permiten integrarme de manera efectiva en equipos de trabajo, fomentar un entorno laboral positivo y abordar problemas con una alta disposición para encontrar soluciones.
+
+El conjunto de habilidades y conocimientos que he adquirido me ha guiado hacia la búsqueda de una oportunidad laboral donde pueda contribuir plenamente como miembro de un equipo de trabajo. Mi objetivo es aplicar tanto mis habilidades técnicas como mis habilidades blandas en este entorno colaborativo.
+
+Anhelo la posibilidad de seguir creciendo profesionalmente, explorando tecnologías emergentes y enriqueciéndome a través de nuevas experiencias. Estoy comprometido con un continuo aprendizaje y evolución en el campo, siempre dispuesto a abordar nuevos desafíos con pasión y dedicación.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/luciano-fraile-lopez-91aa88272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-fraile-lopez-91aa88272" height="30" width="40" /></a>
