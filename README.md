@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy Luciano</h1>
+<h1 align="center">Hola 👋, Yo soy Luciano Fraile Lopez</h1>
 <h3 align="center">Un apasionado desarrollador Full Stack de Argentina</h3>
 
 <p align="cente">¡Saludos! Soy Luciano Fraile Lopez, un apasionado desarrollador Full Stack con un enfoque especializado en el ámbito tanto del Frontend como del Backend. Mi experiencia abarca una amplia gama de tecnologías, entre ellas: HTML, CSS, JavaScript, TypeScript, React, Redux, SQL, Sequelize, PostgreSQL, Git, Github, Bitbucket y Trello.
